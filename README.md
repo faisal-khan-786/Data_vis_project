@@ -3,7 +3,7 @@
 This repository contains my final project for **Data Visualization (Summer 2025)** at the **University of Europe, Potsdam**. I analyze the public **Brazilian E‑commerce Dataset by Olist** (~100k marketplace orders, 2016–2018) to surface patterns in growth, category revenue, logistics performance, payments behavior, customer reviews, and retention.
 
 **Author:** Mohammed Faisal Khan  
-**Instructor:** Dina Deifallah  
+**Instructor:** Prof. Dina Deifallah  
 **Course:** Data Visualization (Summer 2025)  
 **Repo:** https://github.com/faisal-khan-786/Data_vis_project  
 **Live Dashboard:** https://datavisproject-bk4hpzyykgye9svljfrfhx.streamlit.app/  
